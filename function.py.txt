@@ -1,0 +1,5 @@
+n=20
+if(n/2):
+    print(" given number is even")
+elif():
+    print("given nummber is odd")
