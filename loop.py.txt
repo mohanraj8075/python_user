@@ -1,0 +1,4 @@
+word="hello"
+while(word<=5):
+    word+=1
+    print(your word is "+ strword)
